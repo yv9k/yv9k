@@ -27,13 +27,6 @@ my hobbies are music, wrestling, and programming projects.
 
 ---
 
-## GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucidcpp&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
----
-
 ## Projects
 > experimental malware.
 > advanced internal cheats.
